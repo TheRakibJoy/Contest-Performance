@@ -17,3 +17,4 @@
 | [Cefalo SUST Inter University Programming Contest](https://toph.co/c/sust-inter-university-2023/standings) | CoU_TernaryRootedTree| 38 | Team |National|
 | [2022 ICPC Asia Dhaka Regional Online Preliminary Contest](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings) | CoU_TernaryRootedTree| 80 | Team |National|
 | [2022 ICPC ASIA DHAKA REGIONAL CONTEST](https://algo.codemarshal.org/contests/dhaka-22/standings) | CoU_TernaryRootedTree| 82 | Team |National|
+| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_DareToDreamAgain| 13 | Team |National|
