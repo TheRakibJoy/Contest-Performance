@@ -20,4 +20,4 @@
 | [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_DareToDreamAgain| 13 | Team |National|
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_DareToDreamAgain| 4 | Team |Divisional|
 | [ICPC Preliminary Dhaka Site 2023 Preliminary](https://bapsoj.org/contests/icpc-preliminary-dhaka-2023/standings) | CoU_DareToDreamAgain| 36 | Team |National|
-| [ICPC Dhaka Regional Site 2023](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings) | CoU_DareToDreamAgain| 11 | Team |National|
+| [ICPC Dhaka Regional Site 2023](https://icpc.global/regionals/finder/Dhaka-2024/standings) | CoU_DareToDreamAgain| 11 | Team |National|
