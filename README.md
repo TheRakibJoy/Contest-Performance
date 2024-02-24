@@ -21,3 +21,7 @@
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_DareToDreamAgain| 4 | Team |Divisional|
 | [ICPC Preliminary Dhaka Site 2023 Preliminary](https://bapsoj.org/contests/icpc-preliminary-dhaka-2023/standings) | CoU_DareToDreamAgain| 36 | Team |National|
 | [The 2023 ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/Dhaka-2024/standings) | CoU_DareToDreamAgain| 11 | Team |National|
+| [CUET Inter University Programming Contest CodeStorm 1.0](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) | CoU_NextDreamers| 45 | Team |National|
+| [PU IUPC 2024](https://drive.google.com/file/d/18RtwhBCQ5C03zFndpdQE2MXIfN-gyt2s/view?fbclid=IwAR3xJkd6mFvv0t7SQF2uClv7zlyYwIIpazVZh5lVk2UTy3_pCUSPHrRjgiY) | CoU_NextDreamers| 2 | Team |Divisional|
+| [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_NextDreamers| 10 | Team |National|
+| [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_DareToDreamAgain| 12 | Team |National|
