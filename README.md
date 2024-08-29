@@ -28,4 +28,4 @@
 | [NCPC Onsite 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_DareToDreamAgain| 32 | Team |National|
 | [ICPC Asia West Continent Final Contest 2023](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2023/scoreboard) | CoU_DareToDreamAgain| 58 | Team |International|
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | CoU_LastRunForMemories| 7 | Team |National|
-| [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary) | CoU_LastRunForMemories| 1 | Team |National|
+| [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](https://toph.co/c/cuss-it-fiesta-2024-inter-university-preliminary/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
