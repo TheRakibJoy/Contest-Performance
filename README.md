@@ -29,3 +29,4 @@
 | [ICPC Asia West Continent Final Contest 2023](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2023/scoreboard) | CoU_DareToDreamAgain| 58 | Team |International|
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | CoU_LastRunForMemories| 7 | Team |National|
 | [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](https://toph.co/c/cuss-it-fiesta-2024-inter-university-preliminary/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
+| [Inter University Programming Contest | BUET CSE Fest 2024 Standings](https://toph.co/c/inter-university-buet-cse-fest-2024/standings) | CoU_LastRunForMemories| 18 | Team |Divisional|
