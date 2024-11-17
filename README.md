@@ -31,3 +31,6 @@
 | [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](https://toph.co/c/cuss-it-fiesta-2024-inter-university-preliminary/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
 | [SRBD Code Contest - 2024 (Round 1)](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) | RakibJoy | 1 | Individual | National |
 | [Inter University Programming Contest, BUET CSE Fest 2024 Standings](https://toph.co/c/inter-university-buet-cse-fest-2024/standings) | CoU_LastRunForMemories| 18 | Team |National|
+| [SRBD Code Contest - 2024 (Final Round)](https://www.linkedin.com/in/therakibjoy/overlay/1731853224445/single-media-viewer/?profileId=ACoAADMQNUcBc32RdADWhSYdNpj3bkP8dVdJqSY) | RakibJoy | 1 | Individual | National |
+| [CUSS Presents IT Fiesta 2024 Inter University Programming Contest](https://toph.co/contests/training/rxbqtb6/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
+
