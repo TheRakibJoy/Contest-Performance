@@ -33,4 +33,4 @@
 | [Inter University Programming Contest, BUET CSE Fest 2024 Standings](https://toph.co/c/inter-university-buet-cse-fest-2024/standings) | CoU_LastRunForMemories| 18 | Team |National|
 | [SRBD Code Contest - 2024 (Final Round)](https://research.samsung.com/news/Samsung-R-D-Institute-Bangladesh-Held-Code-Contest-2024-Empowering-Future-Talents) | RakibJoy | 1 | Individual | National |
 | [CUSS Presents IT Fiesta 2024 Inter University Programming Contest](https://toph.co/contests/training/rxbqtb6/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
-
+| [ICPC Asia Dhaka Regional Contest 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | CoU_LastRunForMemories| 4 | Team |National|
