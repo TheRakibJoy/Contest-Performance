@@ -34,3 +34,4 @@
 | [SRBD Code Contest - 2024 (Final Round)](https://research.samsung.com/news/Samsung-R-D-Institute-Bangladesh-Held-Code-Contest-2024-Empowering-Future-Talents) | Md. Rakib Hossain | 1 | Individual | National |
 | [CUSS Presents IT Fiesta 2024 Inter University Programming Contest](https://toph.co/contests/training/rxbqtb6/standings) | CoU_LastRunForMemories| 1 | Team |Divisional|
 | [ICPC Asia Dhaka Regional Contest 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | CoU_LastRunForMemories| 4 | Team |National|
+| [KUET Inter University Programming Contest 2025](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) | CoU_Inheritance++ | 6 | Team |National|
