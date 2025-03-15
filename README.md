@@ -39,3 +39,4 @@
 | [ICPC Asia Dhaka Regional Contest 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | CoU_LastRunForMemories| 4 | Team |National|
 | [KUET Inter University Programming Contest 2025](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) | CoU_Inheritance++ | 6 | Team |National|
 | [UIU Inter-University Programming Contest 2025](https://bapsoj.org/contests/uiu-inter-university-programming-contest-2025/standings) | CoU_Inheritance++ | 15 | Team |National|
+| [ICPC Asia West Championship 2024-25](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2026/standings) | CoU_LastRunForMemories| 51 | Team |International|
