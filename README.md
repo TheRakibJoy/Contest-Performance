@@ -1,6 +1,6 @@
 # Competitive Programming — Contest Performance
 
-Competitive programmer from Comilla University (CoU) — ICPC Dhaka Regionalist and team lead across multiple squads. This repo tracks my journey through local, national, and international programming contests.
+Competitive programmer from Comilla University (CoU) — ICPC Asia West Finalist and team lead across multiple squads. This repo tracks my journey through local, national, and international programming contests.
 
 *My learnings, ups and downs, and everything...*
 
